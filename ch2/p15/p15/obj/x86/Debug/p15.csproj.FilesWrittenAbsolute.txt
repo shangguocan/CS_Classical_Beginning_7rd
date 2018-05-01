@@ -1,0 +1,5 @@
+/home/sgc/hello/my_github/CS_Classical_Beginning_7rd/ch2/p15/p15/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/sgc/hello/my_github/CS_Classical_Beginning_7rd/ch2/p15/p15/bin/Debug/p15.exe.mdb
+/home/sgc/hello/my_github/CS_Classical_Beginning_7rd/ch2/p15/p15/bin/Debug/p15.exe
+/home/sgc/hello/my_github/CS_Classical_Beginning_7rd/ch2/p15/p15/obj/x86/Debug/p15.exe
+/home/sgc/hello/my_github/CS_Classical_Beginning_7rd/ch2/p15/p15/obj/x86/Debug/p15.exe.mdb
